@@ -1,2 +1,7 @@
-# my-repo
-give a description
+# my-reproducible manuscript
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of my-reproducible-manuscript is to ... BLBLBL
+
